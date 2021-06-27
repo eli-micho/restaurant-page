@@ -1,0 +1,22 @@
+.aboutpage {
+    display: flex;
+    flex-direction: column;
+    padding: 0 10px;
+    height: calc(100% - 35px - 100px);
+
+    h1 {
+        font-size: 65px;
+        align-self: center;
+    }
+
+    h4 {
+        font-weight: 400;
+        font-size: 35px;
+        margin-bottom: 0;
+        align-self: center;
+    }
+
+    p {
+        font-size: 24px;
+    }
+}

@@ -20,7 +20,9 @@ const Homepage = () => {
                     </p>
                 </div>
 
-                <Link to="/menu" className="toMenuLink">Menu</Link>
+                <span className="linkWrap">
+                    <Link to="/menu" className="toMenuLink">Menu</Link>
+                </span>
             </div>
 
             <div className="rightContent">

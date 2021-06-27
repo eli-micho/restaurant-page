@@ -7,6 +7,8 @@ import Footer from './components/Footer';
 
 //Pages
 import Homepage from './pages/Homepage/Homepage';
+import Aboutpage from './pages/Aboutpage/Aboutpage';
+import Menupage from './pages/Menupage/Menupage';
 
 const App = () => {
   return (
@@ -15,6 +17,14 @@ const App = () => {
         <Switch>
           <Route exact path="/" render={() => (
             <Homepage />
+          )} />
+
+          <Route exact path="/about" render={() => (
+            <Aboutpage/>
+          )} />
+
+          <Route exact path="/menu" render={() => (
+            <Menupage/>
           )} />
         </Switch>
       <Footer/>
