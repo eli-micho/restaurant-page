@@ -10,6 +10,7 @@ body, html {
 }
 
 body {
+    height: 100vh;
     display: flex;
     justify-content: center;
     background-color: #7D5A50;
@@ -26,9 +27,15 @@ a {
     cursor: pointer;
 }
 
+#root {
+    height: 100%;
+}
+
 .App {
     width: 1280px;
     height: 100%;
     background-color: #FFEEDB;
     border-radius: 5px;
+    padding: 0 25px;
+    padding-bottom: 15px;
 }

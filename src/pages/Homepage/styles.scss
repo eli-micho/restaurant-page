@@ -1,0 +1,49 @@
+.homepage {
+    display: flex;
+    padding: 0 10px;
+    height: calc(100% - 35px - 100px);
+    div {
+        width: 50%;
+    }
+    .leftContent {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        h2 {
+            margin: 0;
+            font-size: 50px;
+        }
+        h4 {
+            margin: 0 0 35px 0;
+            font-weight: 500;
+            font-size: 22px;
+        }
+        .description {
+            width: 100%;
+            p {
+            }
+        }
+        .toMenuLink {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 35px;
+            width: 65px;
+            background-color: black;
+            color: white;
+        }
+    }
+    .rightContent {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        float: right;
+        .coffee {
+            height: 90%;
+            right: 0;
+            bottom: 0;
+            position: relative;
+            
+        }
+    }
+}

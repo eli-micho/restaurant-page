@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <div className="header">
             <div className="logoWrap">
-                Le Café
+                <h1>Le Café</h1>
             </div>
 
             <div className="ctaWrap">

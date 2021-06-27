@@ -5,11 +5,19 @@
     align-items: center;
     justify-content: space-between;
 
+    .logoWrap {
+        padding-left: 15px;
+        h1 {
+
+        }
+    }
+
     .ctaWrap {
         ul {
             display: flex;
 
             li {
+                font-size: 20px;
                 margin: 0 20px;
             }
         }

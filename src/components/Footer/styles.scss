@@ -1,4 +1,8 @@
 .footer {
+    height: 35px;
+    display: flex;
+    align-items: center;
+
     ul {
         margin: 0;
         padding: 0;
@@ -6,5 +10,11 @@
         li {
             margin: 0 25px;
         }
+    }
+
+    .horizontalSpacer {
+        height: 1px;
+        flex-grow: 1;
+        border: 1px solid black;
     }
 }

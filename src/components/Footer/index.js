@@ -9,6 +9,7 @@ const Footer = () => {
                 <li><a>Facebook</a></li>
                 <li><a>Yelp</a></li>
             </ul>
+            <div className="horizontalSpacer"/>
         </div>
     )
 };
