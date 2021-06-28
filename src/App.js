@@ -9,6 +9,7 @@ import Footer from './components/Footer';
 import Homepage from './pages/Homepage/Homepage';
 import Aboutpage from './pages/Aboutpage/Aboutpage';
 import Menupage from './pages/Menupage/Menupage';
+import Contactpage from './pages/Contactpage/Contactpage';
 
 const App = () => {
   return (
@@ -25,6 +26,10 @@ const App = () => {
 
           <Route exact path="/menu" render={() => (
             <Menupage/>
+          )} />
+
+          <Route exact path="/contact" render={() => (
+            <Contactpage/>
           )} />
         </Switch>
       <Footer/>

@@ -1,0 +1,46 @@
+.contactpage {
+    display: flex;
+    flex-direction: column;
+    padding: 0 10px;
+    height: calc(100% - 35px - 100px);
+
+    .locationWrap {
+        display: flex;
+        .locationInfo {
+            padding-left: 25px;
+        }
+    }
+
+    .sendFormWrap {
+        .contactForm {
+
+            input {
+                margin: 5px 0;
+            }
+            width: 650px;
+            display: flex;
+            flex-direction: column;
+
+            textarea {
+                height: 85px;
+            }
+
+            .sendBtn {
+                margin-top: 10px;
+                height: 40px;
+                width: 100px;
+                border: none;
+                cursor: pointer;
+            }
+        }
+    }
+
+    .row {
+        height: 50px;
+        width: 450px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 20px;
+    }
+}
