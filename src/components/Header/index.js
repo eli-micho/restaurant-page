@@ -11,7 +11,7 @@ const Header = () => {
 
             <div className="ctaWrap">
                 <ul>
-                    <li><NavLink exact to="/" activeClassName="isActive">Home</NavLink></li>
+                    <li><NavLink exact to="/restaurant-page" activeClassName="isActive">Home</NavLink></li>
                     <li><NavLink to="/about" activeClassName="isActive">Our Story</NavLink></li>
                     <li><NavLink to="/menu" activeClassName="isActive">Menu</NavLink></li>
                     <li><NavLink to="/contact" activeClassName="isActive">Contact Us</NavLink></li>

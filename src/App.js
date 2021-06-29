@@ -16,7 +16,7 @@ const App = () => {
     <div className="App">
       <Header/>
         <Switch>
-          <Route exact path="/restaurantpage" render={() => (
+          <Route exact path="/restaurant-page" render={() => (
             <Homepage />
           )} />
 
