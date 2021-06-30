@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/restaurant-page/static/css/main.6c800b98.chunk.css",
+    "main.css": "/restaurant-page/static/css/main.7612bcf5.chunk.css",
     "main.js": "/restaurant-page/static/js/main.ed702d31.chunk.js",
     "main.js.map": "/restaurant-page/static/js/main.ed702d31.chunk.js.map",
     "runtime-main.js": "/restaurant-page/static/js/runtime-main.dfa15b3f.js",
@@ -8,14 +8,14 @@
     "static/js/2.07e1c8bf.chunk.js": "/restaurant-page/static/js/2.07e1c8bf.chunk.js",
     "static/js/2.07e1c8bf.chunk.js.map": "/restaurant-page/static/js/2.07e1c8bf.chunk.js.map",
     "index.html": "/restaurant-page/index.html",
-    "static/css/main.6c800b98.chunk.css.map": "/restaurant-page/static/css/main.6c800b98.chunk.css.map",
+    "static/css/main.7612bcf5.chunk.css.map": "/restaurant-page/static/css/main.7612bcf5.chunk.css.map",
     "static/js/2.07e1c8bf.chunk.js.LICENSE.txt": "/restaurant-page/static/js/2.07e1c8bf.chunk.js.LICENSE.txt",
     "static/media/holdcafe.7bccba70.png": "/restaurant-page/static/media/holdcafe.7bccba70.png"
   },
   "entrypoints": [
     "static/js/runtime-main.dfa15b3f.js",
     "static/js/2.07e1c8bf.chunk.js",
-    "static/css/main.6c800b98.chunk.css",
+    "static/css/main.7612bcf5.chunk.css",
     "static/js/main.ed702d31.chunk.js"
   ]
 }
