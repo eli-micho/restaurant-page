@@ -38,7 +38,7 @@ a {
     border-radius: 5px;
     padding: 0 25px;
     padding-bottom: 15px;
-
+    background-image: repeating-linear-gradient(67.5deg, rgb(250,235,224) 0px, rgb(250,235,224) 0px,transparent 0px, transparent 1px,rgb(250,235,224) 1px, rgb(250,235,224) 4px,transparent 4px, transparent 5px,rgb(250,235,224) 5px, rgb(250,235,224) 8px),repeating-linear-gradient(0deg, rgb(250,235,224) 0px, rgb(250,235,224) 0px,transparent 0px, transparent 1px,rgb(250,235,224) 1px, rgb(250,235,224) 4px,transparent 4px, transparent 5px,rgb(250,235,224) 5px, rgb(250,235,224) 8px),linear-gradient(135deg, rgb(237, 237, 237),rgb(199, 199, 199));
     .right {
         float: right;
     }
